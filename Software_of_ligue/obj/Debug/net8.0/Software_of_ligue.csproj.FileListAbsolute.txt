@@ -1,0 +1,14 @@
+c:\Users\basto\Software_of_ligue\bin\Debug\net8.0\Software_of_ligue.exe
+C:\Users\basto\Software_of_ligue\bin\Debug\net8.0\Software_of_ligue.deps.json
+C:\Users\basto\Software_of_ligue\bin\Debug\net8.0\Software_of_ligue.runtimeconfig.json
+c:\Users\basto\Software_of_ligue\bin\Debug\net8.0\Software_of_ligue.dll
+c:\Users\basto\Software_of_ligue\bin\Debug\net8.0\Software_of_ligue.pdb
+c:\Users\basto\Software_of_ligue\obj\Debug\net8.0\Software_of_ligue.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\basto\Software_of_ligue\obj\Debug\net8.0\Software_of_ligue.AssemblyInfoInputs.cache
+c:\Users\basto\Software_of_ligue\obj\Debug\net8.0\Software_of_ligue.AssemblyInfo.cs
+c:\Users\basto\Software_of_ligue\obj\Debug\net8.0\Software_of_ligue.csproj.CoreCompileInputs.cache
+c:\Users\basto\Software_of_ligue\obj\Debug\net8.0\Software_of_ligue.dll
+c:\Users\basto\Software_of_ligue\obj\Debug\net8.0\refint\Software_of_ligue.dll
+c:\Users\basto\Software_of_ligue\obj\Debug\net8.0\Software_of_ligue.pdb
+C:\Users\basto\Software_of_ligue\obj\Debug\net8.0\Software_of_ligue.genruntimeconfig.cache
+C:\Users\basto\Software_of_ligue\obj\Debug\net8.0\ref\Software_of_ligue.dll

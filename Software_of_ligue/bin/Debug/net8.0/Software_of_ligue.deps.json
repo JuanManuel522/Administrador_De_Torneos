@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Software_of_ligue/1.0.0": {
+        "runtime": {
+          "Software_of_ligue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Software_of_ligue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
